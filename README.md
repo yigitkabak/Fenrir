@@ -12,7 +12,7 @@ Kurulum
 Fenrir'i global olarak kurmak için aşağıdaki komutu çalıştırın:
 
 ```bash
-npm install -g fenrir
+npm install -g fenrir-runtime
 ```
 
 Kurulum tamamlandıktan sonra, Fenrir'i anında kullanmaya başlayabilirsiniz!
