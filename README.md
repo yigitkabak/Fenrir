@@ -11,7 +11,9 @@ Kurulum
 
 Fenrir'i global olarak kurmak için aşağıdaki komutu çalıştırın:
 
+```bash
 npm install -g fenrir-runtime
+```
 
 Kurulum tamamlandıktan sonra, Fenrir'i anında kullanmaya başlayabilirsiniz!
 
@@ -22,7 +24,9 @@ Kurulum tamamlandıktan sonra, Fenrir'i anında kullanmaya başlayabilirsiniz!
 
 Fenrir ile .fnr uzantılı dosyaları çalıştırmak için aşağıdaki komutu kullanabilirsiniz:
 
+```bas
 npx fenrir run dosya.fnr
+```
 
 Bu kadar basit! Fenrir, gücülü ve hafif yapısıyla kodlarınızı hızlı bir şekilde çalıştırır ve geliştirmenizi kolaylaştırır. TypeScript tabanlı yapısı sayesinde esnek ve okunabilir bir kod yapısı sunar. İster küçük betikler yazın, ister büyük projeler geliştirin, Fenrir her ihtiyaca uyum sağlayacak şekilde tasarlanmıştır.
 
