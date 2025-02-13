@@ -45,7 +45,7 @@ Açık Kaynak: Fenrir, topluluk desteğiyle gelişmeye devam eden açık kaynak 
 
 ---
 
-📥 Fenrir Runtime'yi İndirin
+📥 Fenrir'i İndirin
 
 Fenrir Runtime'yi indirmek ve daha fazla bilgi almak için aşağıdaki bağlantıya gidebilirsiniz:
 
