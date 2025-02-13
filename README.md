@@ -51,7 +51,7 @@ Açık Kaynak: Fenrir, topluluk desteğiyle gelişmeye devam eden açık kaynak 
 
 📥 Fenrir'i İndirin
 
-Fenrir Runtime'yi indirmek ve daha fazla bilgi almak için aşağıdaki bağlantıya gidebilirsiniz:
+Fenrir'i indirmek ve daha fazla bilgi almak için aşağıdaki bağlantıya gidebilirsiniz:
 
 <a href="https://github.com/yigitkabak/fenrir">Fenrir Runtime - Github</a>
 
