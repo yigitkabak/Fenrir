@@ -1,4 +1,4 @@
-🐺 Fenrir Runtime
+🐺 Fenrir
 
 Fenrir, modern ve hızlı bir programlama dili olarak tasarlanmıştır. TypeScript tabanlı bu runtime, .fnr dosyalarını kolayca çalıştırmanızı sağlar. Fenrir ile hızlı, okunabilir ve esnek kodlar yazabilirsiniz!
 
