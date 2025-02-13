@@ -9,7 +9,7 @@ const program = new Command();
 
 program
     .name("fenrir")
-    .description("Fenrir Runtime")
+    .description("Fenrir")
     .version("1.0.0");
 
 program
