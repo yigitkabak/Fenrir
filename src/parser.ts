@@ -63,6 +63,75 @@ function parseTokens(tokens: string[]): string {
                 i++;
             }
         }
+        // Meme word replacements
+        else if (token === "yeet") {
+            tsCode += "throw ";
+            i++;
+        }
+        else if (token === "sus") {
+            tsCode += "console.log('⟁_⟁');\nif (";
+            i++;
+        }
+        else if (token === "notsus") {
+            tsCode += ") {\nconsole.log('✓');\n";
+            i++;
+        }
+        else if (token === "doggo") {
+            tsCode += "fetch";
+            i++;
+        }
+        else if (token === "stonks") {
+            tsCode += "Math.max";
+            i++;
+        }
+        else if (token === "notStonks") {
+            tsCode += "Math.min";
+            i++;
+        }
+        else if (token === "smol") {
+            tsCode += "toLowerCase";
+            i++;
+        }
+        else if (token === "chonky") {
+            tsCode += "toUpperCase";
+            i++;
+        }
+        else if (token === "bamboozle") {
+            tsCode += "Math.random";
+            i++;
+        }
+        else if (token === "yolo") {
+            tsCode += "try {\n";
+            i++;
+        }
+        else if (token === "fail") {
+            tsCode += "} catch (error) {\n";
+            i++;
+        }
+        else if (token === "bonk") {
+            tsCode += "Array.prototype.push.apply";
+            i++;
+        }
+        else if (token === "karen") {
+            tsCode += "new Error";
+            i++;
+        }
+        else if (token === "poggers") {
+            tsCode += "Promise.resolve";
+            i++;
+        }
+        else if (token === "bruh") {
+            tsCode += "Promise.reject";
+            i++;
+        }
+        else if (token === "oof") {
+            tsCode += "break";
+            i++;
+        }
+        else if (token === "holup") {
+            tsCode += "await ";
+            i++;
+        }
         else {
             tsCode += token + " ";
             i++;
