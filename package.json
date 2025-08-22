@@ -1,7 +1,7 @@
 {
-  "name": "fenrir-lang",
+  "name": "fenrir",
   "version": "1.0.0",
-  "description": "Fenrir Programming Language with Version Control",
+  "description": "Fenrir Runtime",
   "main": "dist/cli.js",
   "bin": {
     "fenrir": "./dist/cli.js"
@@ -12,8 +12,8 @@
     "dev": "tsc --watch",
     "test": "node dist/test.js"
   },
-  "keywords": ["fenrir", "programming-language", "typescript", "version-control"],
-  "author": "Fenrir Team",
+  "keywords": ["fenrir", "runtime", "typescript", "version-control"],
+  "author": "openbyte.",
   "license": "GPL",
   "dependencies": {
     "fs-extra": "^11.2.0",
