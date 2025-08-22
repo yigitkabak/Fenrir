@@ -1,0 +1,10 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "A Fenrir project",
+  "dependencies": {
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.1"
+  },
+  "fenrirVersion": "0.0.1"
+}
