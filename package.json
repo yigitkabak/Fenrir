@@ -1,0 +1,27 @@
+{
+  "name": "fenrir-lang",
+  "version": "1.0.0",
+  "description": "Fenrir Programming Language with Version Control",
+  "main": "dist/cli.js",
+  "bin": {
+    "fenrir": "./dist/cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsc && npm link",
+    "dev": "tsc --watch",
+    "test": "node dist/test.js"
+  },
+  "keywords": ["fenrir", "programming-language", "typescript", "version-control"],
+  "author": "Fenrir Team",
+  "license": "GPL",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "glob": "^10.3.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@types/fs-extra": "^11.0.4",
+    "typescript": "^5.3.3"
+  }
+}
