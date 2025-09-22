@@ -35,8 +35,7 @@ cd Fenrir
 
 3. Install and Compile Dependencies.
 ```
-npm install
-npm run build
+make
 ```
 
 
