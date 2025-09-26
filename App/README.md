@@ -17,5 +17,4 @@ This wizard's primary function is to **automate the installation process** for F
 
 ## Images
 <img src="images/screenshot1.png">
----
 <img src="images/screenshot2.png">
