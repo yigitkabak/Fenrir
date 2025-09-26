@@ -38,7 +38,7 @@ cd Fenrir
 make
 ```
 
-
+Or if you use Linux, you can download our application. [App](/App)
 
 Once the installation is complete, **Fenrir** is ready to use in your projects.
 
