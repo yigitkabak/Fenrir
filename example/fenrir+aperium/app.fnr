@@ -1,5 +1,5 @@
-import express from 'express'
-import hw from 'hello-world'
+declare express from 'express'
+declare hw from 'hello-world'
 
 const app = express()
 const port = 3000
