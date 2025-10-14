@@ -219,8 +219,7 @@ export class ArchiveSystem {
             '**/*.bash',
             '**/*.npm', 
             '**/*.lock',
-            '**/*.fnr',
-            '**/Makefile'
+            '**/*.fnr'
         ];
 
         const ignorePatterns = [
