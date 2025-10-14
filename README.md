@@ -49,7 +49,7 @@ Once the installation is complete, **Fenrir** is ready to use in your projects.
 Creating a simple Express server with **Fenrir** is quite easy:
 
 ```
-import express from 'express'
+declare express from 'express'
 
 const app = express()
 const port = 3000
