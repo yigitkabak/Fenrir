@@ -9,8 +9,6 @@ install:
 build:
 	@echo "Running npm run build..."
 	npm run build
-	@echo "Giving aper executable permissions..."
-	@sudo chmod +x /usr/local/bin/fenrir
 	@echo "Finish."
 
 clean:
