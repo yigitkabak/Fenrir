@@ -1,6 +1,6 @@
 {
-  "name": "fenrir",
-  "version": "1.0.0",
+  "name": "fenrir-runtime",
+  "version": "0.0.1",
   "description": "Fenrir Runtime",
   "main": "dist/cli.js",
   "bin": {
@@ -14,7 +14,7 @@
   },
   "keywords": ["fenrir", "runtime", "typescript", "version-control"],
   "author": "openbyte.",
-  "license": "GPL",
+  "license": "GPL-3 or later",
   "dependencies": {
     "fs-extra": "^11.2.0",
     "glob": "^10.3.10"
