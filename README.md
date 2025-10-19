@@ -23,6 +23,11 @@ It provides developers with a fast, secure, and flexible working environment. Th
 
 Installing Fenrir is very easy. You can run the project by following the steps below:
 
+1. install npm package.
+  ```
+npm i fenrir-runtime -g
+  ```
+OR
 1. Clone the repository.
 ```
 git clone https://github.com/yigitkabak/Fenrir
