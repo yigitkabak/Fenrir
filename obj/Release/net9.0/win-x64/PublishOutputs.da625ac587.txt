@@ -1,0 +1,5 @@
+/Users/yigitkabak/Projeler/Fenrir/App/bin/Release/net9.0/win-x64/publish/FenrirWindows.pdb
+/Users/yigitkabak/Projeler/Fenrir/App/bin/Release/net9.0/win-x64/publish/av_libglesv2.dll
+/Users/yigitkabak/Projeler/Fenrir/App/bin/Release/net9.0/win-x64/publish/libHarfBuzzSharp.dll
+/Users/yigitkabak/Projeler/Fenrir/App/bin/Release/net9.0/win-x64/publish/libSkiaSharp.dll
+/Users/yigitkabak/Projeler/Fenrir/App/bin/Release/net9.0/win-x64/publish/FenrirWindows.exe
