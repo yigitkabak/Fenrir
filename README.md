@@ -1,24 +1,94 @@
+# Fenrir Runtime
+
+
+
+**Fenrir** is a modern JavaScript runtime environment based on TypeScript.
+It provides developers with a fast, secure, and flexible working environment. Thanks to TypeScript support, it offers powerful type safety and a modern development experience. Fenrir is distributed as open source and is open to community contributions.
+
 ---
 
-## Fenrir Runtime Setup Wizard (Linux)
+### Features
 
-This is the setup wizard for the **Fenrir Runtime**, an application designed to simplify the installation of the Fenrir Runtime environment on Linux distributions.
+- **TypeScript Compatibility:** Compatible with all TypeScript functions, making your projects more secure and sustainable.
 
-### Purpose
+- **Rollback System:** Reduces the risk of errors by allowing you to undo changes.
 
-This wizard's primary function is to **automate the installation process** for Fenrir. It handles several key steps that typically require manual terminal input:
+- **Modern Framework Support:** Works seamlessly with popular libraries such as Express, Koa, and Fastify.
 
-1.  **SUDO Password Handling:** It securely collects the user's `sudo` password using a graphic interface (Avalonia UI).
-2.  **Repository Cloning:** It automatically clones the Fenrir source code from the official Git repository to the user's home directory.
-3.  **Build Process:** It executes the necessary compilation commands, including `npm run build` and `make`, using elevated (sudo) privileges to correctly install the runtime environment.
-4.  **Status Logging:** It provides real-time logs and status updates on the installation progress to the user.
+- **Open Source and Community-Focused:** You can review, modify, and contribute to the project.
 
-**The goal is to provide a fast, easy, and reliable way to install Fenrir without relying on command-line expertise.**
+---
 
-## Download the Application
-Due to Github's 25mb limit, I have to provide you with the download link via Mediafire.
-[Install Fenrir Runtime Installer](https://www.mediafire.com/file/elsyvsm3unhrfnj/Fenrir.zip/file)
+### Installation
 
-## Images
-<img src="images/screenshot1.png">
-<img src="images/screenshot2.png">
+Installing Fenrir is very easy. You can run the project by following the steps below:
+
+1. install npm package.
+  ```
+npm i fenrir-runtime -g
+  ```
+OR
+1. Clone the repository.
+```
+git clone https://github.com/yigitkabak/Fenrir
+```
+
+2. Enter the Project Directory.
+```
+cd Fenrir
+```
+
+3. Install and Compile Dependencies.
+```
+make
+```
+
+Or if you use Linux and Mac, you can download our application. Linux: [App](/App) Mac: [App](/MacApp)
+
+Once the installation is complete, **Fenrir** is ready to use in your projects.
+
+---
+
+### Example Usage
+
+Creating a simple Express server with **Fenrir** is quite easy:
+
+```
+declare express from 'express'
+
+const app = express()
+const port = 3000
+
+fn handle_home_request(req, res) {
+  res.send('Hello from Fenrir Express!')
+}
+
+app.get('/', handle_home_request)
+
+fn start_server() {
+  app.listen(port, () => {
+    log(`Server running at http://localhost:${port}`)
+  })
+}
+
+start_server()
+```
+
+With this example, you can see the message **"Hello from Fenrir Express!"** by going to http://localhost:3000 in your browser.
+
+---
+### Contributing
+
+- **Fenrir** is a community-driven project. To contribute:
+
+1. **Use the project and provide feedback:** Report bugs or suggestions.
+
+2. **Contribute code:** Add new features or improve existing code.
+
+---
+
+NOTE: ⚠️ **Fenrir** is currently in BETA. You may encounter unexpected errors. Your feedback will greatly contribute to the development of the project.
+
+---
+## Licence
+**Fenrir** is licensed under the [GPL](LICENSE) Licence.
