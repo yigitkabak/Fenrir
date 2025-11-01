@@ -1,4 +1,0 @@
-/home/yigitkabak/Projeler/fenrir-wizard/FenrirLinux/bin/Release/net9.0/linux-x64/publish/FenrirLinux.pdb
-/home/yigitkabak/Projeler/fenrir-wizard/FenrirLinux/bin/Release/net9.0/linux-x64/publish/libHarfBuzzSharp.so
-/home/yigitkabak/Projeler/fenrir-wizard/FenrirLinux/bin/Release/net9.0/linux-x64/publish/libSkiaSharp.so
-/home/yigitkabak/Projeler/fenrir-wizard/FenrirLinux/bin/Release/net9.0/linux-x64/publish/FenrirLinux
