@@ -43,7 +43,7 @@ cd Fenrir
 make
 ```
 
-Or if you use Linux and Mac, you can download our application. Linux: [App](/LinuxApp) Mac: [App](/MacApp) Windows: [App](/WindowsApp)
+Or if you use Linux, Mac and Windows you can download our application. Linux: [App](/LinuxApp) Mac: [App](/MacApp) Windows: [App](/WindowsApp)
 
 Once the installation is complete, **Fenrir** is ready to use in your projects.
 
