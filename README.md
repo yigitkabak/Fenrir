@@ -2,7 +2,7 @@
 
 
 
-**Fenrir** is a modern JavaScript runtime environment based on TypeScript.
+**Fenrir** is a modern JavaScript runtime environment based on TypeScript
 It provides developers with a fast, secure, and flexible working environment. Thanks to TypeScript support, it offers powerful type safety and a modern development experience. Fenrir is distributed as open source and is open to community contributions.
 
 ---
